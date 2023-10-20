@@ -1,2 +1,1 @@
-# LandingPage
- 
+Just a normal landing page
